@@ -4,11 +4,13 @@ A deep dive into sales data, aimed at extracting valuable insights to enhance st
 ### Table of Contents
 - [Project Overview](project-overview)
 - [Description](description)
+- [Data Source](data-source)
+- [Tool](tool)
 - [Tasks to Perform](tasks-to-perfom)
 - [Column Description For Sales Data Analysis](column-description-for-sales-data-analysis)
 - [Transformation of Data](transformation-of-data)
 - [Visualization of Data](visualization-of-data)
-- 
+- [Results](results)
 
 ### Project Overview
 Analyze sales data to identify trends, top-selling products, and revenue metrics for
@@ -23,7 +25,11 @@ from large datasets, enabling you to make data-driven recommendations for optimi
 sales strategies
 
 
-### 
+### Data Source
+MeriSKILLNoida, Uttar Pradesh, INDIA
+
+### Tool
+PowerBI - for data preparation and visualization
 
 
 ### Tasks to Perform
@@ -64,11 +70,9 @@ of each column and convert them as needed.
   - Total profit
   - Sales quantity
   - Profit margin
-8. 
 
-|Cleaning|Visualization|
-|-------|--------|
-|Excel|PowerBI|
+### Results
+
 
 
 
