@@ -2,15 +2,15 @@
 A deep dive into sales data, aimed at extracting valuable insights to enhance strategic decision-making.
 
 ### Table of Contents
-- [Project Overview](project-overview)
-- [Description](description)
-- [Data Source](data-source)
-- [Tool](tool)
-- [Tasks to Perform](tasks-to-perfom)
-- [Column Description For Sales Data Analysis](column-description-for-sales-data-analysis)
-- [Transformation of Data](transformation-of-data)
-- [Visualization of Data](visualization-of-data)
-- [Results](results)
+- [Project Overview](#project-overview)
+- [Description](#description)
+- [Data Source](#data-source)
+- [Tool](#tool)
+- [Tasks to Perform](#tasks-to-perfom)
+- [Column Description For Sales Data Analysis](#column-description-for-sales-data-analysis)
+- [Transformation of Data](#transformation-of-data)
+- [Visualization of Data](#visualization-of-data)
+- [Results](#results)
 
 ### Project Overview
 Analyze sales data to identify trends, top-selling products, and revenue metrics for
