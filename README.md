@@ -71,7 +71,9 @@ of each column and convert them as needed.
   - Sales quantity
   - Profit margin
 
-### Results
+### Result
+![Annotation 2024-06-11 121850](https://github.com/Peddygree/Sales-Analysis/assets/170563175/c9a92da3-29f8-46bf-9e8f-a183bf85a917)
+
 
 
 
